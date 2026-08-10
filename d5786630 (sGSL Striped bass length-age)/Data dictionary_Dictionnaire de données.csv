@@ -1,0 +1,7 @@
+﻿name_nom,description_en,description_fr
+record _id__id_enregistrement,Unique record identifier.,Identifiant unique de l'enregistrement.
+year__année,Year in which the striped bass fork length was measured.,Année où la longueur à la fourche du bar rayé a été mesurée.
+month__mois,Month in which the striped bass fork length was measured.,Mois où la longueur à la fourche du bar rayé a été mesurée.
+day__jours,Day on which the striped bass fork length was measured.,Jour où la longueur à la fourche du bar rayé a été mesurée.
+age__âge,"Interpreted age of the striped bass (years), based on scale-age interpretation by experienced observers.","Âge interprété du bar rayé (années), déterminé à partir de l'interprétation des écailles par des observateurs expérimentés."
+forklength__longeur_fourche,"Fork length of the striped bass, measured in centimetres (cm).","Longueur à la fourche du bar rayé, mesurée en centimètres (cm)."
